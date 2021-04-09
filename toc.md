@@ -3,7 +3,7 @@
 
                      
 <p align="center">
-    <img width="500" height="300" src="https://github.com/Azure/AzureDatabricksBestPractices/blob/master/azure_newDB_color_transp.png">
+    <img width="500" height="300" src="https://github.com/juanpaulo/AzureDatabricksBestPractices/blob/update-icon/azure_newDB_color_transp.png">
 </p>
 
 # Azure Databricks Best Practices
