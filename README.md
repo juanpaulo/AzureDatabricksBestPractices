@@ -1,6 +1,6 @@
 # Azure Databricks Best Practices
 
-![Azure Databricks](https://github.com/Azure/AzureDatabricksBestPractices/blob/master/azure_newDB_color_transp.png "Azure Databricks")
+![Azure Databricks](https://github.com/Azure/AzureDatabricksBestPractices/blob/update-icon/azure_newDB_color_transp.png "Azure Databricks")
 
 
 Authors:
